@@ -1,1 +1,1 @@
-# react-tabs-component
+# tabs-component
